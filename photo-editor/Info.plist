@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>UIAppFonts</key>
+    <array>
+        <string>Montserrat-ExtraBold.ttf</string>
+        <string>Marmelad-Regular.ttf</string>
+        <string>Lobster-Regular.ttf</string>
+        <string>Caveat.ttf</string>
+        <string>AlumniSans-Regular.ttf</string>
+        <string>PoiretOne-Regular.ttf</string>
+        <string>SourceSerifPro-SemiBold.ttf</string>
+        <string>PlayfairDisplaySC-Bold.ttf</string>
+        <string>Pacifico-Regular.ttf</string>
+        <string>Nunito-Black.ttf</string>
+        <string>SF-Pro-Text-Regular.otf</string>
+        <string>SF-Pro-Text-Bold.otf</string>
+        <string>SF-Pro-Text-Semibold.otf</string>
+        <string>SF-Pro-Text-Medium.otf</string>
+    </array>
+    <key>UIUserInterfaceStyle</key>
+    <string>Light</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Необходимо для использования камеры</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Необходимо для использования фото</string>
+    <key>NSAppleMusicUsageDescription</key>
+    <string>Необходимо для использования фото</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>Необходимо для сохранения фото</string>
+</dict>
+</plist>
